@@ -1,0 +1,9 @@
+[submodule "archer-app"]
+	path = archer-app
+	url = https://github.com/khantsithuwin/archer-app.git
+[submodule "archer-api"]
+	path = archer-api
+	url = https://github.com/khantsithuwin/archer-api.git
+[submodule "archer-mobile"]
+	path = archer-mobile
+	url = https://github.com/khantsithuwin/archer-mobile.git
