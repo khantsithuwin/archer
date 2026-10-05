@@ -48,6 +48,7 @@ This is the evolving product brief. It describes what Archer should do, not how 
 - Fixed-price and hourly jobs are both supported.
 - Signed-in job discovery supports keyword search, category, skill, work type, currency, budget/rate, experience level, pagination, and sorting.
 - Freelancers can save and unsave open jobs.
+- Freelancers can revisit and remove saved jobs from a Saved jobs view in Discover, including jobs that later close.
 - Only the owning client edits a draft; publishing makes the job discoverable; accepting a proposal closes it to new proposals.
 
 ### Proposals
